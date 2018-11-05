@@ -1,6 +1,9 @@
 # physical-memory-traces
 Physical Memory Traces from Sniper
 
+# Git clone and commit
+You may need to install git lfs in order to download/upload large traces
+
 # Benchmarks: CPU SPEC 2017
 All the benchmarks are comipled with full optimization. For each workload, the first 200 million instructions are fast forwarded and the next 4 billion instructions are simulated in detailed mode.
 
